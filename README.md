@@ -20,3 +20,4 @@ In Serial To Browser
 # TO RUN ARDUINO IDE
 * RUN THE C++ code in your IDE with the serial port /devAtty/ACM0 yours may be different 
 * make sure your baud rate is the same with the serialtobrowser/inddex.js 
+# RFID-Passport-Arduino
